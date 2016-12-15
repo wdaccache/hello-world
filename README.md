@@ -1,2 +1,3 @@
 # hello-world
 Git hubbing
+Interesting stuff, long time SVN user looking at the latest in source control...
